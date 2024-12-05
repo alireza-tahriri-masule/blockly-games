@@ -7,6 +7,7 @@
 			"MuratTheTurkish",
 			"Nike",
 			"Robby",
+			"Urhixidur",
 			"Verdy p",
 			"Zauzolkov"
 		]
@@ -85,7 +86,6 @@
 	"Maze.turnLeft": "[[Translating:Blockly#Drop-Down_Menus dropdown]] - Imperative or infinitive of a verb for a person turning his head and body one quarter rotation counter-clockwise.  Prefer a translation that has text in common with the translation of 'turn right'.  See [[Translating:Blockly#Drop-Down_Menus]].",
 	"Maze.turnRight": "[[Translating:Blockly#Drop-Down_Menus dropdown]] - Imperative or infinitive of a verb for a person turning his head and body one quarter rotation clockwise.  Prefer a translation that has text in common with the translation of 'turn left'.  See [[Translating:Blockly#Drop-Down_Menus]].",
 	"Maze.doCode": "block text - Imperative or infinitive of a verb preceding one or more commands to a person.  This is part of [https://github.com/google/blockly/wiki/Loops#repeat repeat] and [https://github.com/google/blockly/wiki/IfElse#If_blocks if] blocks.\n{{Identical|Do}}",
-	"Maze.elseCode": "block text - Conjunction meaning 'otherwise', introducing commands to be performed if a previous condition was not true, as in 'if x>3, do this, else do that'.  See [https://github.com/google/blockly/wiki/IfElse#If-Else_blocks].\n{{Identical|Else}}",
 	"Maze.helpIfElse": "callout - This is shown when the 'if-else' block is introduced.  For 'if-else' concatenate the words for 'if' and 'else/otherwise'.",
 	"Maze.pathAhead": "[[Translating:Blockly#Drop-Down_Menus dropdown]] - Condensed form of 'if there is a path ahead', as in: 'if path ahead, go forward'.  Prefer translation that has text in common with 'if path to the left' and 'if path to the right'.",
 	"Maze.pathLeft": "[[Translating:Blockly#Drop-Down_Menus dropdown]] - Condensed form of 'if there is a path to the left', as in: 'if path to the left, turn left'.",
@@ -233,7 +233,7 @@
 	"Music.submitTooltip": "tooltip - Pressing this button causes the music created by the user's program to be submitted to a gallery for other people to see.",
 	"Music.submitMsg": "Label on a button that submits the user's art to a public gallery.",
 	"Music.helpUseFunctions": "Dialog telling user to seek a better answer.",
-	"Music.helpUseInstruments": "Dialog telling user not to use only one musical instrument (piano, flute, etc).",
+	"Music.helpUseInstruments": "Dialog telling user not to use only one musical instrument (piano, flute, etc.).",
 	"Music.helpText1": "Instructions.  If your country has a song to the tune of 'Frère Jacques' use its name.  E.g. Bruder Jakob (German) or Kìa con bướm (Vietnamese).",
 	"Music.helpText2a": "Introducing a new block: function or subroutines",
 	"Music.helpText2b": "Instructions.",
